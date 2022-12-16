@@ -1,0 +1,29 @@
+{
+  "content": "hi guys",
+  "embeds": [
+    {
+      "title": "BODY TITLE",
+      "description": "DESCRIPTION",
+      "color": 89058,
+      "fields": [
+        {
+          "name": "FIELD NAME",
+          "value": "VALUE!!",
+          "inline": true
+        },
+        {
+          "name": "LOL",
+          "value": "LMAO",
+          "inline": true
+        }
+      ],
+      "author": {
+        "name": "MAGIC MAN"
+      },
+      "footer": {
+        "text": "FOOOTER!!!!"
+      }
+    }
+  ],
+  "attachments": []
+}
